@@ -43,9 +43,9 @@ In this project:
 ```
 📁 TSP_Optimization
 ├── TSP_GA_vs_SA_Notebook.ipynb
-├── TSP_GA_vs_SA_Report_with_Chart.docx
+├── TSP_GA_vs_SA_Report.pdf
 ├── GA_vs_SA_Comparison.png
-└── README.md
+└── README.txt
 ```
 
 ## Tools Used
