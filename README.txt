@@ -1,6 +1,6 @@
 
 # Traveling Salesman Problem Optimization (CS348 Project)
-![GA vs SA Comparison](GA_vs_SA_Comparison.png)
+
 
 by:
 Instructor: Dr. Ali Mostafa  
