@@ -1,7 +1,4 @@
-
 # Traveling Salesman Problem Optimization (CS348 Project)
-
-
 by:
 Instructor: Dr. Ali Mostafa  
 Mohaya Almutairi 431107802 
@@ -64,7 +61,7 @@ pip install numpy matplotlib
 jupyter notebook TSP_GA_vs_SA_Notebook.ipynb
 ```
 
-##  License & Academic Integrity
+##  License 
 
 This project was created for educational purposes as part of CS348: Optimization Techniques.
 All code and writing is original. If reused, please credit the author.
