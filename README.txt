@@ -41,7 +41,7 @@ In this project:
 ##  Project Structure
 
 ```
-📁 TSP_Optimization
+ TSP_Optimization
 ├── TSP_GA_vs_SA_Notebook.ipynb
 ├── TSP_GA_vs_SA_Report.pdf
 ├── GA_vs_SA_Comparison.png
